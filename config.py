@@ -1,9 +1,9 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
+Twitch_Channel          = 'y_a0103'
 
-Trans_Username          = 'trans_user_name'
-Trans_OAUTH             = 'oauth_for_trans_user'
+Trans_Username          = 'shiorinsub'
+Trans_OAUTH             = 'oauth:67w533n928qgj49bca1f7orrkxynwj'
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
@@ -13,7 +13,7 @@ Trans_TextColor         = 'GoldenRod'
 lang_TransToHome        = 'ja'
 lang_HomeToOther        = 'en'
 
-Show_ByName             = True
+Show_ByName             = False
 Show_ByLang             = True
 
 Ignore_Lang             = ['']
